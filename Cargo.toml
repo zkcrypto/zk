@@ -1,6 +1,6 @@
 [package]
 name = "zk"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jack Grigg <thestr4d@gmail.com>"]
 edition = "2021"
 description = "Zero-knowledge cryptography traits"
