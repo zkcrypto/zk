@@ -6,6 +6,8 @@ and this library adheres to Rust's notion of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Missing crate metadata and readme.
 
 ## [0.1.0] - 2024-07-15
 Initial release.

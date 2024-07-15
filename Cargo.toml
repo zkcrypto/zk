@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Jack Grigg <thestr4d@gmail.com>"]
 edition = "2021"
 description = "Zero-knowledge cryptography traits"
+readme = "README.md"
+homepage = "https://github.com/zkcrypto/zk"
+repository = "https://github.com/zkcrypto/zk"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
